@@ -301,7 +301,7 @@ HomeComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineComp
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](2, "Sobre M\u00ED");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](3, "p");
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](4, "Tecnologo en desarrollo de sistemas de informaci\u00F3n, graduado de la fundacion universitaria tecnologico de comfenalco. Tengo una experiencia laboral de 4 a\u00F1os y 7 meses.");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](4, "Tecnologo en desarrollo de sistemas de informaci\u00F3n, graduado de la fundacion universitaria tecnologico de comfenalco. Tengo una experiencia laboral de 5 a\u00F1os.");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](5, "p");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](6, "Me caracterizo por ser responsable, dedicado y con habilidades de autoaprendizaje y con ganas de aprender m\u00E1s cada d\u00EDa ");
